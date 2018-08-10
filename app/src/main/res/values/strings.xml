@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="api_key_message">Please add your Api key in MainActivity.java class</string>
+</resources>
